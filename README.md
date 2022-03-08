@@ -34,7 +34,9 @@
     Contoh 1 :
     Masukkan N-> 10
     Hasilnya : 1 + 3 + 5 + 7 + 9 = 25
-    
+````
+
+````
     Contoh 2:
     Masukkan N -> 9
     Hasilnya : 1 + 3 + 5 + 7 + 9 = 25
