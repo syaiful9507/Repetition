@@ -1,7 +1,33 @@
 #  SOAL PERULANGAN
 1. Buatlah program untuk menampilkan bilangan ganjil mulai 1 s.d. N (N diinputkan dari keyboard)
+   
+   Jawab :
+
+````
+    int n;
+    printf("Masukkan angka n = "); scanf("%d", &n);
+    for (int i=1; i<=n; i++)
+    {
+        
+        if (i % 2 == 0) continue;
+        printf("%d ", i);
+    }
+````
+
 2. Buatlah program untuk menampilkan bilangan kelipatan 3 mulai 3 s.d. 50, kecuali 15.
-3. Buatlah program untuk menjumlah bilangan ganjil mulai 1 s.d. N, dengan tampilan sbb:
+   Jawab :
+````
+    int n;
+    printf("Masukkan angka n = "); scanf("%d", &n);
+    for (int i=1; i<=n; i++)
+    {
+        i = (i+3)-1;
+        if (i == 15) continue;
+        printf("%d ", i);
+    }
+````
+
+3 . Buatlah program untuk menjumlah bilangan ganjil mulai 1 s.d. N, dengan tampilan sbb:
 ****
 
     Contoh 1 :
