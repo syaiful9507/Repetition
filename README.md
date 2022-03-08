@@ -1,7 +1,7 @@
-# Repetition SOAL
+#  SOAL PERULANGAN
 1. Buatlah program untuk menampilkan bilangan ganjil mulai 1 s.d. N (N diinputkan dari keyboard)
-2.  Buatlah program untuk menampilkan bilangan kelipatan 3 mulai 3 s.d. 50, kecuali 15.
-3.  Buatlah program untuk menjumlah bilangan ganjil mulai 1 s.d. N, dengan tampilan sbb:
+2. Buatlah program untuk menampilkan bilangan kelipatan 3 mulai 3 s.d. 50, kecuali 15.
+3. Buatlah program untuk menjumlah bilangan ganjil mulai 1 s.d. N, dengan tampilan sbb:
 ****
 
     Contoh 1 :
