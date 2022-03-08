@@ -28,8 +28,9 @@
 ````
 
 3 . Buatlah program untuk menjumlah bilangan ganjil mulai 1 s.d. N, dengan tampilan sbb:
-****
 
+
+````
     Contoh 1 :
     Masukkan N-> 10
     Hasilnya : 1 + 3 + 5 + 7 + 9 = 25
@@ -37,12 +38,11 @@
     Contoh 2:
     Masukkan N -> 9
     Hasilnya : 1 + 3 + 5 + 7 + 9 = 25
-****
+````
     
 4.Buatlah program dengan menggunakan perintah looping untuk menampilkan pola angka berikut:
 
 ****
-
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 2 3 4 5\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 2 3 4\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 2 3\
